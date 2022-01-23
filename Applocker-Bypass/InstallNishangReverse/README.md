@@ -10,17 +10,17 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe  /LogToConsole=t
 			
 Steps
 
-	1)Build the project after changing the ip (lhost , ip youre serving the shellcode from) and script name ("damn" , change the name to name of your Invoke-PowerShellTcp.ps1 instance )
-	2)Transfer the build exe to the rhost 
-	3)run the listener on lhost to the configured port on Invoke-PowerShellTcp.ps1 instance
-	3)Run the executable using InstallUtil -  C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe  /LogToConsole=true /U C:\Users\root\Desktop\installdamn.exe
-	4)Check on the lhost http server for a call back and your listener		
+  1)Build the project after changing the ip (lhost , ip youre serving the shellcode from) and script name ("damn" , change the name to name of your Invoke-PowerShellTcp.ps1 instance )
+  2)Transfer the build exe to the rhost 
+  3)run the listener on lhost to the configured port on Invoke-PowerShellTcp.ps1 instance
+  4)Run the executable using InstallUtil -  C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe  /LogToConsole=true /U C:\Users\root\Desktop\installdamn.exe
+  5)Check on the lhost http server for a call back and your listener		
 						
 ```
 
 ## Compile Instructions
 
-This Project  has been built against .NET 4.0 x64 and is compatible with [Visual Studio 2019 Community Edition]. Simply open up the project .sln, choose "release", and build before the required changes
+This Project has been built against .NET 4.0 x64 and is compatible with [Visual Studio 2019 Community Edition]. Simply open up the project .sln, choose "release", and build before the required changes
 .
 
 ## Notes

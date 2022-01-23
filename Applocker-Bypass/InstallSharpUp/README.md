@@ -10,9 +10,9 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe  /LogToConsole=t
 			
 Steps
 	
-	1)Build the project
-	2)Transfer the build exe to the rhost 
-	3)Run the executable using InstallUtil -  C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe  /LogToConsole=true /U C:\Users\root\Desktop\SharpUp.exe
+  1)Build the project
+  2)Transfer the build exe to the rhost 
+  3)Run the executable using InstallUtil -  C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe  /LogToConsole=true /U C:\Users\root\Desktop\SharpUp.exe
 						
 ```
 
