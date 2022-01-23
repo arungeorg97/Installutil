@@ -25,7 +25,7 @@ This Project has been built against .NET 4.0 x64 and is compatible with [Visual 
 * The SharpUp Argument used here is "audit"
 * when testing on a windows machine , disable the "Cloud Delivered Protection" , Off
 * Use https://antiscan.me/ instead of virus total if you wanna validate the signatures
-* You could run any code to bypass Applocker via "public class SharpUp : System.Configuration.Install.Installer" method
+* You could run any c# code to bypass Applocker via "public class SharpUp : System.Configuration.Install.Installer" method
 
 
 
