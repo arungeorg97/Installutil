@@ -1,0 +1,16 @@
+C:\Users\arujose\source\repos\OSEP\Exam\Initial\Applocker\installdamn\installdamn\installdamn\bin\x64\Release\installdamn.exe
+C:\Users\arujose\source\repos\OSEP\Exam\Initial\Applocker\installdamn\installdamn\installdamn\bin\x64\Release\installdamn.pdb
+C:\Users\arujose\source\repos\OSEP\Exam\Initial\Applocker\installdamn\installdamn\installdamn\bin\x64\Release\System.Management.Automation.dll
+C:\Users\arujose\source\repos\OSEP\Exam\Initial\Applocker\installdamn\installdamn\installdamn\obj\x64\Release\installdamn.csprojAssemblyReference.cache
+C:\Users\arujose\source\repos\OSEP\Exam\Initial\Applocker\installdamn\installdamn\installdamn\obj\x64\Release\installdamn.csproj.CoreCompileInputs.cache
+C:\Users\arujose\source\repos\OSEP\Exam\Initial\Applocker\installdamn\installdamn\installdamn\obj\x64\Release\installdamn.csproj.CopyComplete
+C:\Users\arujose\source\repos\OSEP\Exam\Initial\Applocker\installdamn\installdamn\installdamn\obj\x64\Release\installdamn.exe
+C:\Users\arujose\source\repos\OSEP\Exam\Initial\Applocker\installdamn\installdamn\installdamn\obj\x64\Release\installdamn.pdb
+C:\Users\arujose\source\repos\OSEP\Git\Applocker\InstallNishangReverse\installdamn\bin\x64\Release\installdamn.exe
+C:\Users\arujose\source\repos\OSEP\Git\Applocker\InstallNishangReverse\installdamn\bin\x64\Release\installdamn.pdb
+C:\Users\arujose\source\repos\OSEP\Git\Applocker\InstallNishangReverse\installdamn\bin\x64\Release\System.Management.Automation.dll
+C:\Users\arujose\source\repos\OSEP\Git\Applocker\InstallNishangReverse\installdamn\obj\x64\Release\installdamn.csprojAssemblyReference.cache
+C:\Users\arujose\source\repos\OSEP\Git\Applocker\InstallNishangReverse\installdamn\obj\x64\Release\installdamn.csproj.CoreCompileInputs.cache
+C:\Users\arujose\source\repos\OSEP\Git\Applocker\InstallNishangReverse\installdamn\obj\x64\Release\installdamn.csproj.CopyComplete
+C:\Users\arujose\source\repos\OSEP\Git\Applocker\InstallNishangReverse\installdamn\obj\x64\Release\installdamn.exe
+C:\Users\arujose\source\repos\OSEP\Git\Applocker\InstallNishangReverse\installdamn\obj\x64\Release\installdamn.pdb
