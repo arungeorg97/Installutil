@@ -1,4 +1,4 @@
-## Bypass for Applocker and Powershell Constrained Language Mode via InstallUtil Uninstaller Method to run SharpUp
+## Bypass for Applocker  via InstallUtil Uninstaller Method to run SharpUp
 
 ----
 
