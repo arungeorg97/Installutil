@@ -15,5 +15,5 @@ This repository contains couple of scripts i had used to identity bypass Applock
   - As default the all check flag of Sharup - "audit" is choosen. Feel free to modify any other flags of SharpUp.
 
 - Acknowledgments:
-  - [SharpUp](https://github.com/GhostPack/SharpUp#readme).
-  - [Nishang](https://github.com/samratashok/nishang).
+  - [SharpUp](https://github.com/GhostPack/SharpUp#readme)
+  - [Nishang](https://github.com/samratashok/nishang)
